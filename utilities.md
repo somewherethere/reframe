@@ -2,6 +2,7 @@
 layout: page
 title: Utilities
 permalink: /utilities/
+in_nav: true
 sub_pages:
     Formatting: /utilities/formatting
     Date: /utilities/date

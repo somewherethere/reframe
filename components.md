@@ -2,6 +2,7 @@
 layout: page
 title: Components
 permalink: /components/
+in_nav: true
 sub_pages:
     Forms: /components/forms
     Collections: /components/collections
